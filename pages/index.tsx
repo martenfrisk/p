@@ -10,7 +10,7 @@ export default () => (
       <link rel="icon" type="image/svg+xml" href="/favicon.svg"/>
 		</Head>
 		<div>
-			<div className="my-4 md:my-20 text">Mårten Frisk</div>
+			<div className="my-4 md:my-32 text">Mårten Frisk</div>
 			<div className="container pt-48 mx-auto md:pt-64">
 				<div className="flex flex-wrap items-center justify-center w-4/5 px-4 py-4 mx-auto my-4 bg-white shadow-lg lg:w-1/2">
 					<Contact />
